@@ -1,1 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        img {
+            border-radius: 50%;
+        }
+    </style>
+    <title>Tugas Website klp 3</title>
+    <link rel="stylesheet" href="Assets/css/style.css">
+    <link
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        rel="stylesheet"
+    />
+</head>
+<body>
+    <nav>
+    <a href="" class="name">Kelompok 3</a>
+        <ul class="menu-navbar">
+            <li><a href="#home">Menu</a></li>
+            <li><a href="#about">Anggota</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+     <div>
+            <h1>Kami dari kelompok 3 <br />Sedang membuat basic website</h1>
+            <p>
+                berikut contoh halaman yang saya buat untuk tugas membuat basic website dengan menggunakan html dan css.
+            </p>
+            <div>
+                <img src="Assets/img/download.jpeg" alt=""/>
+            </div> 
+        </div>
+    </section>
+   <section id="about"> 
+      <div class="info-about"> 
+        <h1>Anggota kelompok</h1> 
+        <p> 
+            Berikut Daftar nama anggota kelompok 3 yang
+            bekerjasama dalam pembuat basic website ini.
+        </p> 
+      <div class="content-about">
+
+  <!-- kolom kiri -->
+  <div class="timeline-container">
+    <div class="timeline">
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Raditya Gusti Adhitama</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Ahmad Maulana Saptahadi</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Arwini Ramadhani</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Dian Novita Irwan</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Naufal Yaqzhan</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Muh. Riski</h3>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- kolom kanan -->
+  <div class="timeline-container">
+    <div class="timeline">
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Muh. Asad Amsyar</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Muh. Fawwaz Asgaf</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Nuryanti Zahra</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Shyva Tandigau</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>Andi ST Rusydina Zakirah S</h3>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+          <h3>ST Aisyah Hasanah</h3>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
 # my-web
